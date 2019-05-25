@@ -1,0 +1,2 @@
+# pneumonia-
+With the high rise in popularity of neural networks, researchers and engineers have been able to find many world-changing applications for computer vision. Today, I want to show you an example of this. By acquiring a labeled dataset of chest x-ray scans for pneumonia, I was able to rapidly build and prototype an artificial intelligence model that identified pneumonia cases with 90% accuracy. (for test_data)
